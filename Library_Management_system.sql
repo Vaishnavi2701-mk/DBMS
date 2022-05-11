@@ -1,4 +1,12 @@
-drop database librabry_project;
+/*
+
+Project Name: Liabrary Management System 
+Made by : Group No 19
+Subject: DBMS
+Tool : MySQL
+
+
+*/
 
 create database librabry_project;
 use librabry_project;
